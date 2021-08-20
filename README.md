@@ -13,4 +13,5 @@ We have created the following menu which will provide the further sub-menus on p
    press 7 : LVM
    press 8 : To configure web server
    press 9 : For AWS functionalities
-   press 10 :To exit
+   press 10 :To exit     
+   
